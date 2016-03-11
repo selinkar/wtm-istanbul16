@@ -16,9 +16,9 @@ description: "Women Techmakers is a set of event about Women in technology"
 baseurl: ""
 url: "http://wtmistanbul.com"
 permalink: "/blog/:title"
-#googleAnalyticsTrackingId: "UA-58630743-1"
-#googleAnalyticsSiteUrl: "wtmistanbul.com"
-#siteVerification: "J78BVBOHc0PWM6qbrydtmvG1KjsM5HFF4JUSzcuoqCw"
+googleAnalyticsTrackingId: "UA-58630743-1"
+googleAnalyticsSiteUrl: "wtmistanbul.com"
+siteVerification: "J78BVBOHc0PWM6qbrydtmvG1KjsM5HFF4JUSzcuoqCw"
 
 # Organizer Info
 organizerName: "GDG Women Istanbul"
