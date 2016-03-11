@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Konuşmacı Olarak Başvurun"
-date:   2016-03-10 19:00:00
+date:   2016-10-03 19:00:00
 isStaticPost: false
 ---
 Women Techmakers Istanbul 2016 etkinliği **3 Nisan'da** Bahçeşehir Üniversite’sinde gerçekleşiyor. Eğer siz de bu harika etkinliğin bir parçası olmak istiyorsanız konuşma başvurunuzu zaman dolmadan yapın!
