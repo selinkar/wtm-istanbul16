@@ -4,7 +4,7 @@ title:  "Sanal Gerçeklik: Yeni Bir Anlatı Biçimi"
 date:   2016-03-10 16:56:00
 isStaticPost: false
 ---
-# *Sanal Gerçeklik: Yeni Bir Anlatı Biçimi	*
+# Sanal Gerçeklik: Yeni Bir Anlatı Biçimi
 <img src="/images/posts/vr-image.jpg" style="width: 100%;"/>
 
 Önümüzdeki 10 yıla damgasını vuracak sanal gerçeklik teknolojisinin oyundan filme, eğitimden mimariye birçok alanda kendini göstereceği, mevcut etkileşimleri değiştireceği öngörülüyor. Sinemada kullanım biçiminin de anlatının dinamiklerini yeniden tanımlaması uzak bir ihtimal değil. Atölyede katılımcılara sanal gerçeklik teknolojisinin dünü bugünü ve gelecek planları anlatılırken, bir yandan hangi alanlarda nasıl kullanıldığı ve kullanılabileceği örnekler üzerinden tartışılacaktır.
