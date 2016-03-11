@@ -5,14 +5,14 @@
 #- 
  group: "Altın Sponsorlar"
   elements: 
-   # - {name: "Netaş", description: "Netaş", link: "http://www.netas.com.tr/", imageUrl: "Netas.jpg"}
-    - {name: "Blippar", description: "Blippar", link: "https://www.blippar.com/", imageUrl: "blippar.png"}
+   - {name: "Blippar", description: "Blippar", link: "https://www.blippar.com/", imageUrl: "blippar.png"}
+  
   #group: "Gümüş Sponsorlar"
   #elements: 
    # - {name: "BKM", description: "BKM", link: "http://www.bkm.com.tr/", imageUrl: "bkm.jpg"}
     #- {name: "Monitise", description: "Monitise", link: "http://www.monitise.com/", imageUrl: "Monitise.jpg"}
 -
-  group: "Etkinlik Sponsoru
+  group: "Etkinlik Sponsoru"
   elements:
     - {name: "Google", description: "Google", link: "https://google.com/", imageUrl: "google.svg"}
     #- {name: "Blippar", description: "Blippar", link: "https://www.blippar.com/", imageUrl: "blippar.png"}
