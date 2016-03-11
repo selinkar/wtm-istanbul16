@@ -59,5 +59,4 @@ Bu seneki konferans konularımızı aşağıda listeledik. Fakat aşağıdaki ko
 
 **Bilgilendirme:** Bilgilendirme: Başvurmanız halinde konuşmanızın WTM Istanbul 2016 programında yer alacağına dair kesin bir bilgi veremiyoruz. Etkinlik programında yer alacak konuşmalar komite tarafından seçilecek ve tüm başvuranlara bilgilendirme epostası gönderilecektir.<br/>
 
-Kafanıza takılan bir soru mu var? Organizatörlere sorun: [wtm@.gdgistanbul.com](mailto:wtm@gdgistanbul.com)
-ks the most interesting talk proposals.<br/>
+Kafanıza takılan bir soru mu var? Organizatörlere sorun: [wtm@.gdgistanbul.com](mailto:wtm@gdgistanbul.com)<br/>
