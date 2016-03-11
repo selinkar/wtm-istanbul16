@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/wtm-istanbul-2016-tanitim-dosyasi.pdf"
 navigationLinks:
  - {permalink: "/", text: "Ana Sayfa"}
  # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Program"}
+ #- {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/#partners", text: "Sponsorlar"}
  #- {permalink: "/team/", text: "Team"}
