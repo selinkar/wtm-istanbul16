@@ -14,7 +14,7 @@ title: "Women Techmakers Istanbul 2016"
 email: "wtm@gdgistanbul.com"
 description: "Women Techmakers is a set of event about Women in technology"
 baseurl: ""
-url: "http://wtmistanbul.com/"
+url: "http://gdgistanbul.github.io/wtm-istanbul16/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-58630743-1"
 googleAnalyticsSiteUrl: "wtmistanbul.com"
@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form"
-c4sponsorsUrl: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0tvVTl2U2VjZkU/edit?usp=drive_web"
+c4pUrl: "https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform"
+c4sponsorsUrl: "/assets/wtm-istanbul-2016-tanitim-dosyasi.pdf"
 
 
 # Navigation
