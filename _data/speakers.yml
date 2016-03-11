@@ -1,5 +1,5 @@
 - 
-  id: 0
+  id: 1
   name: "Zehra"
   surname: "Öney"
   company: "Blippar"
@@ -13,13 +13,12 @@
     #- {name: "linkedin", link: "http://www.linkedin.com/in/trishagee"}
     #- {name: "github", link: "http://github.com/trishagee"}
 - 
-  id: 1
+  id: 2
   name: "Elif"
   surname: "Boncuk"
   company: "Garanti Teknolji"
   title: "Software Specialist"
-  bio: "Mobile Application Developer at Garanti Technology. Working on mobile technologies especially on Android (since Eclair) more than 4 years since the team formation in her current company. 
-Tech Enthusiast, Blogger, Traveller, Photographer"
+  bio: "Mobile Application Developer at Garanti Technology. Working on mobile technologies especially on Android (since Eclair) more than 4 years since the team formation in her current company.<br>Tech Enthusiast, Blogger, Traveller, Photographer"
   thumbnailUrl: elif-boncuk.jpg
   #social: 
    # - {name: "site", link: "http://trishagee.github.io/"}
