@@ -20,12 +20,16 @@
     #- {name: "Eteration", description: "Eteration", link: "http://www.eteration.com/", imageUrl: "eteration.png"}
     #- {name: "M-GEN", description: "M-GEN", link: "http://m-gen.biz/tr/anasayfa", imageUrl: "M-GEN.svg"}
 -
-  #group: "Startup Launch Partnerleri"
+  
+  group: "Destekleyenler"
   elements:
-   # - {name: "212", description: "212", link: "https://www.212ltd.com/", imageUrl: "212.jpg"}
-    
--
-  #group: "Destekleyenler"
-  elements:
-    # - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
-    # - {name: "", description: "", link: "http://", imageUrl: ""}
+     - {name: "Turkish Win", description: "TurkishWin", link: "http://turkishwin.com/", imageUrl: "TurkishWin.jpg"}
+     - {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
+     - {name: "GDG X", description: "GDG X", link: "#", imageUrl: "gdg-x.svg"}
+     - {name: "Google Developers", description: "Google Developers", link: "http://developers.google.com", imageUrl: "GoogleDevelopers.png"}
+     #- {name: "", description: "", link: "http://", imageUrl: ""}
+     #- {name: "", description: "", link: "http://", imageUrl: ""}
+     #- {name: "", description: "", link: "http://", imageUrl: ""}
+     #- {name: "", description: "", link: "http://", imageUrl: ""}
+     #- {name: "", description: "", link: "http://", imageUrl: ""}
+     #- {name: "", description: "", link: "http://", imageUrl: ""}
