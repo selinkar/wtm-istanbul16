@@ -64,7 +64,8 @@ eventDate: "3 April, 2015"
 typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/schedule/", text: "Konferans Programı"}
+ #- {permalink: "/schedule/", text: "Konferans Programı"}
+ - {permalink: "https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform", text: "Konuşmacı Başvurusu"}
  - {link: "http://www.meetup.com/GDGIstanbul/events/229249368/", text: "Kayıt Ol"}
 
 # About Block
@@ -79,7 +80,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "392", specialCharacter: "+", info: "katılımcı", detail: "kadın ve erkek"}
  - {count: "59", specialCharacter: "+", info: "konuşmacı", detail: "1 Google çalışanı haricinde hepsi kadın"}
- - {count: "5", specialCharacter: "", info: "paralel oturum", detail: "ve çalıştaylar"}
+ - {count: "4", specialCharacter: "", info: "paralel oturum", detail: "ve çalıştaylar"}
 
 # Latest News Block
 latestNewsTitle: "Son haberler"
@@ -161,6 +162,8 @@ footerBlocks:
  -
   title: "Bağlantılar"
   links:
+   - {link: "http://2015.wtmistanbul.com", text: "WTM Istanbul '15"}
+   - {link: "http://2014.wtmistanbul.com", text: "WTM Istanbul '14"}
    - {link: "http://www.gdgistanbul.com", text: "GDG Istanbul"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
