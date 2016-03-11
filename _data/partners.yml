@@ -3,8 +3,8 @@
   #elements: 
     #- {name: "IBM", description: "IBM", link: "http://www.ibm.com/tr/tr/", imageUrl: "IBM.jpg"}
 #- 
- # group: "Altın Sponsorlar"
-  #elements: 
+ group: "Altın Sponsorlar"
+  elements: 
    # - {name: "Netaş", description: "Netaş", link: "http://www.netas.com.tr/", imageUrl: "Netas.jpg"}
     - {name: "Blippar", description: "Blippar", link: "https://www.blippar.com/", imageUrl: "blippar.png"}
   #group: "Gümüş Sponsorlar"
