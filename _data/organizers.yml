@@ -2,14 +2,3 @@
   group: "Organizasyon"
   elements: 
     - {width: "1000px", name: "WTM Istanbul", description: "GDG Istanbul - Open and volunteer geek community", link: "http://www.gdgistanbul.com", imageUrl: "wtm.jpg"}
-- 
-  group: "Yardımcı Organizatörler"
-  elements: 
-    - {name: "GDG Istanbul", description: "GDG Istanbul - Open and volunteer geek community", link: "http://www.gdgistanbul.com", imageUrl: "gdgistanbul.png"}
-    - {name: "GDG Ankara", description: "GDG Ankara", link: "http://www.gdgankara.com", imageUrl: "gdgankara.png"}
-    - {name: "Ankara JUG", description: "Ankara JUG", link: "http://www.gdgistanbul.com", imageUrl: "ankarajug.png"}
-    - {name: "GDG Duzce", description: "GDG Duzce", link: "http://www.gdgduzce.com", imageUrl: "gdgduzce.png"}
-    - {name: "GDG Eskisehir", description: "GDG Eskisehir", link: "http://www.gdgeskisehir.com", imageUrl: "gdgeskisehir.png"}
-    - {name: "GDG Konya", description: "GDG Konya", link: "http://www.gdgkonya.com", imageUrl: "gdgkonya.png"}
-    - {name: "GDG Kutahya", description: "GDG Kutahya", link: "http://www.gdgkutahya.com", imageUrl: "gdgkutahya.jpg"}
-    - {name: "MobilIstanbul", description: "MobilIstanbul", link: "http://www.gdgistanbul.com", imageUrl: "mobilistanbul.jpg"}
