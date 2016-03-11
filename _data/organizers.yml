@@ -1,4 +1,4 @@
 - 
-  group: "Organizasyon"
+  #group: "Organizasyon"
   elements: 
     - {width: "1000px", name: "WTM Istanbul", description: "GDG Istanbul - Open and volunteer geek community", link: "http://www.gdgistanbul.com", imageUrl: "wtm.jpg"}
