@@ -1,63 +1,63 @@
 ---
 layout: post
-title:  "Call for Papers"
-date:   2015-02-09 19:00:00
+title:  "Konuşmacı Olarak Başvurun"
+date:   2016-03-10 19:00:00
 isStaticPost: false
 ---
-Women Techmakers Istanbul 2015 will be held 15th of March. If you want to be part of this great event as a speaker you knocked at the good door.
+Women Techmakers Istanbul 2016 etkinliği **3 Nisan'da** Bahçeşehir Üniversite’sinde gerçekleşiyor. Eğer siz de bu harika etkinliğin bir parçası olmak istiyorsanız konuşma başvurunuzu zaman dolmadan yapın!
 
-#### Presenters – who should speak at the WTM Conference?
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
+### Konuşmacılar – WTM Istanbul 2016 Etkinliğinde Kimler Konuşmacı Olabilir? 
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+* geliştiriciler (freelance / çalışan),
+* Yazılım geliştiren şirketler (app, tool, framework vb.),
+* Eğitim/Araştırma görevlileri,
+* Şirketler, kar amacı gütmeyen organizasyonlar, eğitim kurumları ve Google teknolojilerini kullanmayı seven herkes.
 
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+Kendinizi yukarıdaki maddelerden en az birine uygun görüyorsanız konferansımız için konuşmanızı / konuşmalarınızı yapmakta hiç bir engel yok! Bağımsız bir komite konuşma başvurularını inceleyecek ve uygun görülmesi halinde konuşmanız konferans programına eklenecek.<br/>
 
-##### Android
 
-__Google I/O 2014__
+### Konular – Sizden Neler Bekliyoruz?
 
+Bu seneki konferans konularımızı aşağıda listeledik. Fakat aşağıdaki konular dışında anlatmak istediğiniz ilgi çekici başka bir konu hakkında da konuşma başvurusu yapabilirsiniz.
+
+#### Android
+
+* New features in M (granular permissions, new security model, data binding)
+* Design support library
+* Voice interactions
+* Apps under the hood (profiling battery, memory, cpu usage)
+* Google Cast 
+* Android in the wild, unusual and crazy applications
+* Firebase
+* Continuous integration best practices
+  
+
+#### Web
+
+* Angular 2 
+* Polymer 1.0
+* WebAssembly
+* Firebase
 * Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
-
-__General__
-
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
-
-##### Web
-
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
+* Dart in the real life
 
 
-##### Cloud
+#### Cloud
 
-* Google Cloud Platform
-  * Compute Engine
-  * App Engine
-  * Storages (SQL, NoSQL, BigData)
-  * APIs
+* NodeJS in the Cloud
+* Google Datastore
+* Managed VM and App Engine sandbox
+* Kubernetes
+* Dart at Cloud
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form).
+### Başvurularınız [Call for Papers](https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform) formunu doldurarak bize iletebilirsiniz.
 
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
+**Son Başvuru Tarihi** 20 Nisan 2016
 
-The program committee picks the most interesting talk proposals.<br/>
+**Bilgilendirme:** Bilgilendirme: Başvurmanız halinde konuşmanızın WTM Istanbul 2016 programında yer alacağına dair kesin bir bilgi veremiyoruz. Etkinlik programında yer alacak konuşmalar komite tarafından seçilecek ve tüm başvuranlara bilgilendirme epostası gönderilecektir.<br/>
+
+Kafanıza takılan bir soru mu var? Organizatörlere sorun: [wtm@.gdgistanbul.com](mailto:wtm@gdgistanbul.com)
+ks the most interesting talk proposals.<br/>
