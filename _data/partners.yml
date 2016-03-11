@@ -1,46 +1,49 @@
-#- 
+- 
   #group: "Platin Sponsor"
-  #elements: 
-    #- {name: "IBM", description: "IBM", link: "http://www.ibm.com/tr/tr/", imageUrl: "IBM.jpg"}
-#- 
- group: "Altın Sponsorlar"
   elements: 
-   - {name: "Blippar", description: "Blippar", link: "https://www.blippar.com/", imageUrl: "blippar.png"}
-  
-  #group: "Gümüş Sponsorlar"
-  #elements: 
-   # - {name: "BKM", description: "BKM", link: "http://www.bkm.com.tr/", imageUrl: "bkm.jpg"}
-    #- {name: "Monitise", description: "Monitise", link: "http://www.monitise.com/", imageUrl: "Monitise.jpg"}
--
+    - {name: "IBM", description: "IBM", link: "http://www.ibm.com/tr/tr/", imageUrl: "IBM.jpg"}
+- 
+  group: "Altın Sponsorlar"
+  elements: 
+    - {name: "Blippar", description: "Blippar", link: "http://www.blippar.com", imageUrl: "blippar.png"}
+    #- {name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell_white_bg.jpg"}
+- 
   group: "Etkinlik Sponsoru"
+  elements: 
+    - {name: "Google", description: "Google", link: "http://www.google.com.tr/", imageUrl: "google.svg"}
+    - {name: "Monitise", description: "Monitise", link: "http://www.monitise.com/", imageUrl: "Monitise.jpg"}
+-
+  #group: "Sponsorlar"
   elements:
     - {name: "Google", description: "Google", link: "https://google.com/", imageUrl: "google.svg"}
-    #- {name: "Blippar", description: "Blippar", link: "https://www.blippar.com/", imageUrl: "blippar.png"}
+    - {name: "Jet Brains", description: "Jet Brains", link: "https://www.jetbrains.com/", imageUrl: "JetBrains.svg"}
+    - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com/", imageUrl: "eteration.png"}
+    - {name: "M-GEN", description: "M-GEN", link: "http://m-gen.biz/tr/anasayfa", imageUrl: "M-GEN.svg"}
 -
- # group: "Startup Launch Partnerleri"
-  #elements:
-   # - {name: "212", description: "212", link: "https://www.212ltd.com/", imageUrl: "212.jpg"}
-    #- {name: "BIC Angel Investments", description: "BIC Angel Investments", link: "https://www.bicangels.com/", imageUrl: "BICAngelInvestments.jpg"}
-    #- {name: "Etohum", description: "Etohum", link: "http://www.etohum.com//", imageUrl: "ETohum.jpg"}
-    #- {name: "Galata Business Angels", description: "Galata Business Angels", link: "https://www.galatabusinessangels.com//", imageUrl: "GalataBusinessAngels.png"}
-    #- {name: "Revo Capital", description: "Revo Capital", link: "http://www.revo.vc/", imageUrl: "RevoVC.png"}
-    #- {name: "String Ventures", description: "String Ventures", link: "https://www.stringventures.com/", imageUrl: "StringVentures.svg"}
-    #- {name: "Istanbul Startup Angels", description: "Istanbul Startup Angels", link: "http://www.istanbulstartupangels.com/", imageUrl: "IstanbulStartupAngels.png"}
+  #group: "Startup Launch Partnerleri"
+  elements:
+    - {name: "212", description: "212", link: "https://www.212ltd.com/", imageUrl: "212.jpg"}
+    - {name: "BIC Angel Investments", description: "BIC Angel Investments", link: "https://www.bicangels.com/", imageUrl: "BICAngelInvestments.jpg"}
+    - {name: "Etohum", description: "Etohum", link: "http://www.etohum.com//", imageUrl: "ETohum.jpg"}
+    - {name: "Galata Business Angels", description: "Galata Business Angels", link: "https://www.galatabusinessangels.com//", imageUrl: "GalataBusinessAngels.png"}
+    - {name: "Revo Capital", description: "Revo Capital", link: "http://www.revo.vc/", imageUrl: "RevoVC.png"}
+    - {name: "String Ventures", description: "String Ventures", link: "https://www.stringventures.com/", imageUrl: "StringVentures.svg"}
+    - {name: "Istanbul Startup Angels", description: "Istanbul Startup Angels", link: "http://www.istanbulstartupangels.com/", imageUrl: "IstanbulStartupAngels.png"}
 -
- # group: "Destekleyenler"
-  #elements:
-   # - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
-    #- {name: "Mobillium", description: "Mobillium", link: "http://www.mobillium.com", imageUrl: "mobillium.png"}
-    #- {name: "Akıllı Yazılım", description: "Akıllı Yazılım", link: "http://www.akilliyazilim.org", imageUrl: "akilliyazilim.png"}
-    #- {name: "Kodcu.com", description: "Kodcu.com", link: "http://www.kodcu.com/", imageUrl: "KodcuCom.png"}
-    #- {name: "Voxxed Days Istanbul", description: "Voxxed Days Istanbul", link: "https://www.voxxed.com/days-istanbul15/", imageUrl: "VoxxedIstanbul.png"}
-    #- {name: "Turkish WIN", description: "Turkish WIN", link: "http://www.turkishwin.com/", imageUrl: "TurkishWin.jpg"}
-    #- {name: "indir.com", description: "indir.com", link: "http://indir.com", imageUrl: "indircom.jpg"}
-    #- {name: "chip", description: "chip", link: "http://chip.com.tr", imageUrl: "chip.png"}
-    #- {name: "Fütüristler Derneği", description: "Fütüristler Derneği", link: "http://www.futurizm.org/", imageUrl: "FuturistlerDernegi.jpg"}
-    #- {name: "Kadin Bilisimci", description: "Kadin Bilisimci", link: "http://kadinbilisimci.com", imageUrl: "kadinbilisimci.com.png"}
-    #- {name: "3Durak", description: "3Durak", link: "http://www.3durak.com/", imageUrl: "3Durak.png"}
-    #- {name: "Abaküs Yayınları", description: "Abaküs Yayınları", imageUrl: "abakus.jpg"}
-    #- {name: "Kadin Yazilimci", description: "Kadin Yazilimci", link: "http://www.kadinyazilimci.com/", imageUrl: "kadinyazilimci.jpg"}
-    #- {name: "Agile Turkey", description: "Agile Turkey", link: "http://www.agileturkey.org/", imageUrl: "AgileTurkey.jpg"}
+  #group: "Destekleyenler"
+  elements:
+    - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
+    - {name: "Mobillium", description: "Mobillium", link: "http://www.mobillium.com", imageUrl: "mobillium.png"}
+    - {name: "Akıllı Yazılım", description: "Akıllı Yazılım", link: "http://www.akilliyazilim.org", imageUrl: "akilliyazilim.png"}
+    - {name: "Kodcu.com", description: "Kodcu.com", link: "http://www.kodcu.com/", imageUrl: "KodcuCom.png"}
+    - {name: "Voxxed Days Istanbul", description: "Voxxed Days Istanbul", link: "https://www.voxxed.com/days-istanbul15/", imageUrl: "VoxxedIstanbul.png"}
+    - {name: "Turkish WIN", description: "Turkish WIN", link: "http://www.turkishwin.com/", imageUrl: "TurkishWin.jpg"}
+    - {name: "indir.com", description: "indir.com", link: "http://indir.com", imageUrl: "indircom.jpg"}
+    - {name: "chip", description: "chip", link: "http://chip.com.tr", imageUrl: "chip.png"}
+    - {name: "Fütüristler Derneği", description: "Fütüristler Derneği", link: "http://www.futurizm.org/", imageUrl: "FuturistlerDernegi.jpg"}
+    - {name: "Kadin Bilisimci", description: "Kadin Bilisimci", link: "http://kadinbilisimci.com", imageUrl: "kadinbilisimci.com.png"}
+    - {name: "3Durak", description: "3Durak", link: "http://www.3durak.com/", imageUrl: "3Durak.png"}
+    - {name: "Abaküs Yayınları", description: "Abaküs Yayınları", imageUrl: "abakus.jpg"}
+    - {name: "Kadin Yazilimci", description: "Kadin Yazilimci", link: "http://www.kadinyazilimci.com/", imageUrl: "kadinyazilimci.jpg"}
+    - {name: "Agile Turkey", description: "Agile Turkey", link: "http://www.agileturkey.org/", imageUrl: "AgileTurkey.jpg"}
     # - {name: "", description: "", link: "http://", imageUrl: ""}
