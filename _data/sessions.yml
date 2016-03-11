@@ -1,11 +1,6 @@
 -
-  id: 999
-  title: "Daha sonra açıklanacak"
-  service: true
-  speakers:[0]
--
   id: 053
-  title: "Changing The World Through Technologies"
-  description: "Digital revolution has transformed the ways we perceive world. Every day thousands of new applications are being developed worldwide and download rate is even more. This is of course great, brings monetary benefit to numbers of developers and companies but at times we ask ourselves what is the PURPOSE. Technological development has enabled us to tackle various societal problems and find tangible solutions starting from inventing complicated machines or hardware to websites for online donations. There yet exists full potential of how societies can change the world through technologies.  During this workshop, we will challenge each participant to think about how they play be important role in social advancement by using their competencies and building tools that matters ! The session will start with a brief introduction of the topic and proceed into dynamic design thinking. I'm hoping there will be at least one take away message for everyone attending it!"
+  title: "Daha sonra açıklanacak."
+  description: ""
   language: en
-  speakers: [66]
+  speakers: [0]
