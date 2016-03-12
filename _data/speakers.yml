@@ -40,10 +40,7 @@ id: 3
   
   social: 
     - {name: "site", link: "http://oyunder.org"}
-    #- {name: "google-plus", link: "https://plus.google.com/+TrishaGee/"}
-    #- {name: "twitter", link: "http://www.twitter.com/trisha_gee"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/simay-din%C3%A7-9b070551"}
-    #- {name: "github", link: "http://github.com/trishagee"}
 
 # - 
 #   id: 0
