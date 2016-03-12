@@ -7,12 +7,6 @@
   title: "Chief Executive Officer"
   bio: "Zehra Öney İstanbul Üniversitesi’nde Ekonomi eğitimi aldıktan sonra 10 yıl boyunca Turizm sektöründe Türkiye’nin önde gelen acentelerinin üst düzey pozisyonlarında görev aldı. Son 15 yıldır ise kariyerine Telekomünikasyon, Mobil/Dijital ve Sosyal Medya alanlarında profesyonel yönetici ve girişimci olarak devam ediyor."
   thumbnailUrl: zehra-oney.jpg
-  #social: 
-   # - {name: "site", link: "http://trishagee.github.io/"}
-    #- {name: "google-plus", link: "https://plus.google.com/+TrishaGee/"}
-    #- {name: "twitter", link: "http://www.twitter.com/trisha_gee"}
-    #- {name: "linkedin", link: "http://www.linkedin.com/in/trishagee"}
-    #- {name: "github", link: "http://github.com/trishagee"}
 - 
   id: 2
   rockstar: true
@@ -22,12 +16,6 @@
   title: "Software Specialist"
   bio: "Mobile Application Developer at Garanti Technology. Working on mobile technologies especially on Android (since Eclair) more than 4 years since the team formation in her current company.<br>Tech Enthusiast, Blogger, Traveller, Photographer"
   thumbnailUrl: elif-boncuk.jpg
-  #social: 
-   # - {name: "site", link: "http://trishagee.github.io/"}
-    #- {name: "google-plus", link: "https://plus.google.com/+TrishaGee/"}
-    #- {name: "twitter", link: "http://www.twitter.com/trisha_gee"}
-    #- {name: "linkedin", link: "http://www.linkedin.com/in/trishagee"}
-    #- {name: "github", link: "http://github.com/trishagee"}
 -
   id: 3
   rockstar: true
@@ -50,28 +38,10 @@
   title: "Android Developer"
   bio: "Computer Engineer, Junior Android Developer, wants to devote herself Mobile Softwares & Applications in her career and study with academic environments."
   thumbnailUrl: gulsah-gul.jpg
-  
   social: 
     - {name: "site", link: "http://gulsahgul.net/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-g%C3%BCl-4aa46767"}
     - {name: "twitter", link: "http://www.twitter.com/GulshahGulshah"}
-
-- 
-  id: 5
-  rockstar: false
-  name: "Gülşah"
-  surname: "Gül"
-  company: "Cybersoft"
-  title: "Android Developer"
-  bio: "Mobile Application Developer at Garanti Technology. Working on mobile technologies especially on Android (since Eclair) more than 4 years since the team formation in her current company.<br>Tech Enthusiast, Blogger, Traveller, Photographer"
-  thumbnailUrl: gulsah-gul.jpg
-  #social: 
-   # - {name: "site", link: "http://trishagee.github.io/"}
-    #- {name: "google-plus", link: "https://plus.google.com/+TrishaGee/"}
-    #- {name: "twitter", link: "http://www.twitter.com/trisha_gee"}
-    #- {name: "linkedin", link: "http://www.linkedin.com/in/trishagee"}
-    #- {name: "github", link: "http://github.com/trishagee"}
--
 # - 
 #   id: 0
 #   name: ""
@@ -80,3 +50,9 @@
 #   title: ""
 #   bio: ""
 #   thumbnailUrl: .jpg
+#   social: 
+#    - {name: "site", link: "http://trishagee.github.io/"}
+#     - {name: "google-plus", link: "https://plus.google.com/+TrishaGee/"}
+#     - {name: "twitter", link: "http://www.twitter.com/trisha_gee"}
+#     - {name: "linkedin", link: "http://www.linkedin.com/in/trishagee"}
+#     - {name: "github", link: "http://github.com/trishagee"}
