@@ -119,7 +119,7 @@ venueFeatures: ["4 adet konferans salonu", "Sandbox alanı", "Şehrin merkezinde
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Naber?"
 twitterHashTag: "wtmistanbul"
-twitterFeed: ""
+twitterFeed: "http://infinite-everglades-50778.herokuapp.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizatör"
