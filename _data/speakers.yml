@@ -28,6 +28,22 @@
     #- {name: "twitter", link: "http://www.twitter.com/trisha_gee"}
     #- {name: "linkedin", link: "http://www.linkedin.com/in/trishagee"}
     #- {name: "github", link: "http://github.com/trishagee"}
+-
+id: 3
+  rockstar: true
+  name: "Simay"
+  surname: "Dinç"
+  company: "Oyunder"
+  title: "Yönetim Kurulu Üyesi"
+  bio: "Simay, İstanbul Üniversitesi İşletme Fakültesinden 2005 yılında mezun oldu. Girişimcilik ruhuyla 10 yıl süresince Amerika'dan Asya'ya farklı ülkelerde eğitim, staj ve hayalindeki projeleri gerçekleştirmek için araştırma yapma fırsatı buldu. Universal Studios Hollywood'da başlayan serüveni Avustralya Sydney Opera House'a kadar devam etti. Simay, Türkiye’nin ilk yaratıcı girişimcilik köyü Yenicarohori projesini oluşturdu. Kendisi Türkiye'nin ilk Oyun Yapımcıları ve Geliştiricileri Derneği Oyunder'in yönetim kurulu üyesi ve #WOMENinGAMES Turkiye'nin kurucusu."
+  thumbnailUrl: simay-dinc.jpg
+  
+  social: 
+    - {name: "site", link: "http://oyunder.org"}
+    #- {name: "google-plus", link: "https://plus.google.com/+TrishaGee/"}
+    #- {name: "twitter", link: "http://www.twitter.com/trisha_gee"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/simay-din%C3%A7-9b070551"}
+    #- {name: "github", link: "http://github.com/trishagee"}
 
 # - 
 #   id: 0
