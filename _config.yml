@@ -71,8 +71,8 @@ heroButtons:
 aboutTitle: "Women Techmakers Hakkında"
 aboutBlock:
  - {title: "Dünya Kadınlar Günü", image: "conference.jpg", text: "Mart ayında dünya kadınlar gününü kutlarken teknoloji bilişim ve mühendislik alanında kadınları destekliyor ve ilham veriyoruz." }
+ - {title: "VR Workshop", image: "vr.jpg", text: "Sanal gerçeklik teknolojisinin dünü bugünü ve gelecek planları anlatılırken, bir yandan hangi alanlarda nasıl kullanılabileceğini örnekler üzerinden tartışacağız" }
  - {title: "Teknoloji", image: "workshop.jpg", text: "Teknoloji sektörundeki gelişmeler, yenilikler ve haberleri dinlemek icin sahneye teknoloji dunyasında calışan başarılı kadınları davet ediyoruz." }
- - {title: "Startup Launch", image: "hackathon.jpg", text: "Kadın girişimciliği destekliyoruz. Girişimciler ve girşimci adayları, WTM İstanbul'da yatırımcılarla bir araya geliyor!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
