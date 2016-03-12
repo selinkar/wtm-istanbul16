@@ -41,8 +41,9 @@
   social: 
     - {name: "site", link: "http://oyunder.org"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/simay-din%C3%A7-9b070551"}
-    
-    id: 4
+  -
+  
+  id: 4
   rockstar: true
   name: "Gülşah"
   surname: "Gül"
