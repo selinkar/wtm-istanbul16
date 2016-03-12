@@ -10,3 +10,9 @@
   description: "Performance matters to users, so it must matter to you. In this session, I will talk about how to identify and fix performance bottlenecks and using profiling tools."
   language: en
   speakers: [2]
+-
+  id: 003
+  title: "Oyun Girişimciliği"
+  description: ""
+  language: tr
+  speakers: [3]
