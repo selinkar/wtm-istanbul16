@@ -56,7 +56,22 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-g%C3%BCl-4aa46767"}
     - {name: "twitter", link: "http://www.twitter.com/GulshahGulshah"}
 
-
+- 
+  id: 5
+  rockstar: false
+  name: "Gülşah"
+  surname: "Gül"
+  company: "Cybersoft"
+  title: "Android Developer"
+  bio: "Mobile Application Developer at Garanti Technology. Working on mobile technologies especially on Android (since Eclair) more than 4 years since the team formation in her current company.<br>Tech Enthusiast, Blogger, Traveller, Photographer"
+  thumbnailUrl: gulsah-gul.jpg
+  #social: 
+   # - {name: "site", link: "http://trishagee.github.io/"}
+    #- {name: "google-plus", link: "https://plus.google.com/+TrishaGee/"}
+    #- {name: "twitter", link: "http://www.twitter.com/trisha_gee"}
+    #- {name: "linkedin", link: "http://www.linkedin.com/in/trishagee"}
+    #- {name: "github", link: "http://github.com/trishagee"}
+-
 # - 
 #   id: 0
 #   name: ""
