@@ -41,6 +41,21 @@
   social: 
     - {name: "site", link: "http://oyunder.org"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/simay-din%C3%A7-9b070551"}
+    
+    id: 4
+  rockstar: true
+  name: "Gülşah"
+  surname: "Gül"
+  company: "Cybersoft"
+  title: "Android Developer"
+  bio: "Computer Engineer, Junior Android Developer, wants to devote herself Mobile Softwares & Applications in her career and study with academic environments."
+  thumbnailUrl: gulsah-gul.jpg
+  
+  social: 
+    - {name: "site", link: "http://gulsahgul.net/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-g%C3%BCl-4aa46767"}
+    - {name: "twitter", link: "http://www.twitter.com/GulshahGulshah"}
+
 
 # - 
 #   id: 0
