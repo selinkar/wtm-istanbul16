@@ -16,6 +16,10 @@
   title: "Software Specialist"
   bio: "Mobile Application Developer at Garanti Technology. Working on mobile technologies especially on Android (since Eclair) more than 4 years since the team formation in her current company.<br>Tech Enthusiast, Blogger, Traveller, Photographer"
   thumbnailUrl: elif-boncuk.jpg
+  social: 
+    - {name: "site", link: "https://elifboncuk.wordpress.com/"}
+    - {name: "linkedin", link: "https://tr.linkedin.com/in/elif-boncuk-855a8728"}
+    - {name: "twitter", link: "https://twitter.com/elifbon_"}
 -
   id: 3
   rockstar: true
