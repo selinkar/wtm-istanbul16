@@ -22,3 +22,9 @@
   description: ""
   language: ""
   speakers: [4]
+-
+  id: 005
+  title: "Kariyer Basamaklarında Teknolojinin Tesellisi"
+  description: "Kariyer basamaklarını tırmanmanın çeşitli yolları vardır. Kimi helikopter indirir kariyerinin zirvesine; kimi de her basamağı çalışıp çabalayarak ve ter dökerek aşar. Ben kariyerime kolay bir başlangıç yapmadım. Daha gidecek çok yolum da var. Ama şimdiden, eskiden olduğum yerden çok ilerdeyim yani buna inanıyor ve bununla gurur duyuyorum. Anlatacağım hikayede kendinizden bazı parçalar bulabilir ya da hemen kendi hikayenizi oluşturmaya başlayabilirsiniz. Hata yapmanın dayanılmaz hafifliğinden; korkusuzca ilerlemekten ve sosyal medyanın nimetlerinden yararlanmaktan ufak kesitler bulabileceğiniz bu sunumdan ayrılırken yüreklerinizde hedefleriniz için ihtiyacınız olan cesareti bulabileceğinizi umuyorum."
+  language: "tr"
+  speakers: [5]
