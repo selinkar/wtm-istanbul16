@@ -42,6 +42,20 @@
     - {name: "site", link: "http://gulsahgul.net/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-g%C3%BCl-4aa46767"}
     - {name: "twitter", link: "http://www.twitter.com/GulshahGulshah"}
+  
+  -
+  id: 5
+  rockstar: true
+  name: "Eda"
+  surname: "Yavuz"
+  company: "SEV Amerikan Koleji"
+  title: "Eğitim Teknolojileri Uzmanı"
+  bio: "Eğitim Teknoloğu. Teknoloji Psikoloğu. Freelance Learner. Marmara Üniversitesi Bilgisayar ve Öğretim Teknolojileri bölümünü 2015’te tamamladım. Üniversite hayatım boyunca staj ve yarı zamanlı olmak üzere farklı kurumlarda ve Freelance olarak bir çok farklı alanda çalıştım. Şu anda SEV Amerikan Koleji’nde Eğitim Teknolojileri Uzmanı olarak çalışmaktayım."
+  thumbnailUrl: eda-yavuz.jpg
+  social: 
+    - {name: "site", link: "http://www.edayavuz.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eddayavuz"}
+    - {name: "twitter", link: "https://twitter.com/iEdaYavuz"}
 # - 
 #   id: 0
 #   name: ""
